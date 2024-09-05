@@ -8,6 +8,48 @@
 #* You will understand the difference between strings, integers and floating point numbers
 
 
+print(myXVAL)
+myXVAL = 10
+Myval = 7
+name = "Chuck"
+number = 100
+newNumber = "100"
+
+print(number/2)
+#Casting example
+print(int(newNumber)/2)
+myFloat = 3.54
+
+num1 = 100
+num2 = 75
+num3 = 967
+
+avg = (num1 + num2 + num3)/3
+
+print(f"Average: {avg}")
+print(avg)
+print ("Average ", avg)
+print("Average " + str(avg))
+
+Bed = 6
+bath = 5
+adress = "4510 Streambed Dr"
+city = "folsom"
+zip = 95630
+rent = 8000
+
+print(f"House for rent at {adress} in {city} ({zip}")
+print(f"\t{beds} bedrooms, {bath} bathrooms") 
+print(f"\trent is ${rent}/month")
+
+
+#File path example
+#C:\Users\myname\Documents\OneNote Notebooks
+print("I have a file located at: C:\\User\\Shahil\\Document... ")
+
+
+
+
 
 ## Live Demo ##
 #
