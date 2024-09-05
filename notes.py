@@ -6,7 +6,8 @@
 #* You will be able to use variables in different contexts
 #* You will know what kind of data can be stored in variables
 #* You will understand the difference between strings, integers and floating point numbers
-
+myXVAL = 10
+myval = 7
 
 print(myXVAL)
 myXVAL = 10
