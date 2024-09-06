@@ -51,8 +51,11 @@ print("I am looking for a job with a salary of " +str(lower)+ "-" +str(upper)+ "
 
 x = input("X val: ")
 y = input("Y val: ")
-
+a = int(x) + int(y)
+b = int(x) - int(y)
+c = int(x) * int(y)
+d = int(x) / int(y)
 print(x+" + "+y+" = "+(str(a)))
 print(x+" + "+y+" = "+(str(b)))
-print(x+" + "+y+" = "+(str(c))))
+print(x+" + "+y+" = "+(str(c)))
 print(x+" + "+y+" = "+(str(d)))
